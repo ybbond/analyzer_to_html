@@ -3,7 +3,7 @@ import 'dart:io';
 
 import 'package:args/args.dart';
 
-import 'html_elements.dart';
+import 'package:analyzer_to_html/src/html_elements.dart';
 
 const String dartLinterDocsBaseURL = 'https://dart.dev/tools/linter-rules';
 
